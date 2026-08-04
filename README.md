@@ -1,8 +1,8 @@
 <img src="banner 3.jpg" width="100%" width="50%" alt="Header Banner">
 
 
-![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)(https://www.linkedin.com/in/elusha-van/)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elusha-van/)
 
 **ElushaVan/elushavan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
