@@ -7,9 +7,8 @@
 
 <div align="center">
   <h1>👋 Greetings mate, I'm <span style="color: #4A90E2;">Elusha</span></h1>
-  <p><b>Data Analytics | Machine Learning | AI Enthusiast</b></p>
+  <p><b>Data Analyst | Machine Learning | AI Enthusiast</b></p>
 </div>
 
-<br>
-<p1> Mainly focus on Data Analyst. Has interest on Machine Learning and AI also. 
-💡 Honest truth: I'm still getting the hang of coding, but I'm dedicated to learning, experimenting, and improving every single day! </p1>
+> 💡 **Honest Truth:**  
+> *I'm still getting the hang of coding, but I'm dedicated to learning, experimenting, and improving every single day!*
