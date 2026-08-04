@@ -13,3 +13,8 @@
 
 > 💡 **Honest Truth:**  
 > *I'm still getting the hang of coding, but I'm dedicated to learning, experimenting, and improving every single day!*
+
+
+<div align="center">
+  <img src="./github-metrics-languages.svg" alt="Languages Metrics" />
+</div>
