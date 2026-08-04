@@ -1,4 +1,4 @@
-<img src="URL_GAMBAR_BANNER_KAMU" width="100%" alt="Header Banner">
+<img src="banner.png" width="100%" alt="Header Banner">
 
 
 ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
