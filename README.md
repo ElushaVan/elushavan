@@ -3,7 +3,8 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vxaxn_?igsh=MXRwdjV5NnZqNW1wZg==)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elusha-van/)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/users/605709378330296320) 
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/users/605709378330296320)
+[![DataCamp](https://img.shields.io/badge/DataCamp-052926?style=for-the-badge&logo=datacamp&logoColor=05192D)](https://www.datacamp.com/profile/ElushaVan)
 
 <div align="center">
   <h1>👋 Greetings mate, I'm <span style="color: #4A90E2;">Elusha</span></h1>
