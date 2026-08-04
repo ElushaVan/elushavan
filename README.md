@@ -1,4 +1,4 @@
-<img src="banner.jpg" width="100%" alt="Header Banner">
+<img src="banner.jpg" width="100%" width="50%" alt="Header Banner">
 
 
 ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
