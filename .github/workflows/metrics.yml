@@ -1,0 +1,31 @@
+name: Metrics
+on:
+  # Berjalan otomatis setiap hari pada jam 00:00 UTC
+  schedule: [{cron: "0 0 * * *"}]
+  # Memungkinkan kamu menjalankan workflow secara manual dari tab Actions
+  workflow_dispatch:
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # Token yang diset di Secrets
+          token: ${{ secrets.METRICS_TOKEN }}
+          
+          # Output nama file SVG yang dihasilkan
+          filename: github-metrics-languages.svg
+          
+          # Hanya fokus pada statistik bahasa (matikan elemen bawaan base jika tidak dibutuhkan)
+          base: ""
+          
+          # AKTIFKAN PLUGIN LANGUAGES
+          plugin_languages: yes
+          plugin_languages_colors: github
+          plugin_languages_limit: 8
+          plugin_languages_threshold: 0%
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_sections: most-used
