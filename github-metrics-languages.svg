@@ -21,14 +21,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="384.0420876169364" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="384.0420876169364" y="0" width="66.45484997092854" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="450.4969375878649" y="0" width="3.96221581594794" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="454.4591534038129" y="0" width="3.1065966194388985" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="457.5657500232517" y="0" width="2.12215212805603" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="459.68790215130775" y="0" width="0.20458489602589267" height="8" fill="#012456"/>
-                    <rect mask="url(#languages-bar)" x="459.89248704733365" y="0" width="0.07086750134673069" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="459.9633545486804" y="0" width="0.036645451319594194" height="8" fill="#C1F12E"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="379.83878686252103" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="379.83878686252103" y="0" width="70.76216075626012" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="450.6009476187811" y="0" width="3.918849775440051" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="454.5197973942212" y="0" width="3.0725952421544993" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="457.5923926363757" y="0" width="2.0989253934650565" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="459.6913180298407" y="0" width="0.20234573559130678" height="8" fill="#012456"/>
+                    <rect mask="url(#languages-bar)" x="459.893663765432" y="0" width="0.07009186390625473" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="459.96375562933827" y="0" width="0.03624437066165553" height="8" fill="#C1F12E"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -41,7 +41,7 @@
                             </div>
                             <small>
                                 <div>16.9 MB</div>
-                                <div>83.49%</div>
+                                <div>82.57%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -53,7 +53,7 @@
                             </div>
                             <small>
                                 <div>174 kB</div>
-                                <div>0.86%</div>
+                                <div>0.85%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -90,8 +90,8 @@
                                 Jupyter Notebook
                             </div>
                             <small>
-                                <div>2.93 MB</div>
-                                <div>14.45%</div>
+                                <div>3.16 MB</div>
+                                <div>15.38%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -103,7 +103,7 @@
                             </div>
                             <small>
                                 <div>137 kB</div>
-                                <div>0.68%</div>
+                                <div>0.67%</div>
                             </small>
                         </div>
                         <div class="field language details">
